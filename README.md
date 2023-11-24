@@ -1,4 +1,4 @@
-https://katsushi-torii.com/
+Published projects → https://katsushi-torii.com/
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=katsushi-torii&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
 
