@@ -4,7 +4,7 @@ Published projects → https://katsushi-torii.com/
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=katsushi-torii)
 
-![Codewars](https://www.codewars.com/users/katsushi-torii/badges/med)
+![Codewars](https://www.codewars.com/users/katsushi-torii/badges/mid)
 
 
 <!--
