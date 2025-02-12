@@ -2,9 +2,9 @@ Published projects → https://katsushi-torii.com/
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=katsushi-torii&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=katsushi-torii)
-
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=katsushi-torii)
+
+![Codewars](https://www.codewars.com/users/katsushi-torii/badges/small)
 
 
 <!--
